@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rQ44NRZbPeoj-4TRLv0b-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="910" width="810" height="390" as="geometry" />
+        <mxCell id="rQ44NRZbPeoj-4TRLv0b-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="340" width="1020" height="390" as="geometry" />
         </mxCell>
         <mxCell id="rQ44NRZbPeoj-4TRLv0b-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;dashed=1;" edge="1" parent="1" source="rQ44NRZbPeoj-4TRLv0b-4" target="rQ44NRZbPeoj-4TRLv0b-6">
           <mxGeometry relative="1" as="geometry" />
@@ -36,11 +36,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rQ44NRZbPeoj-4TRLv0b-11" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.cpu;" vertex="1" parent="1">
-          <mxGeometry x="-130" y="440" width="50" height="50" as="geometry" />
+        <mxCell id="rQ44NRZbPeoj-4TRLv0b-11" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#2D7600;fillColor=#60a917;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.cpu;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="405" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rQ44NRZbPeoj-4TRLv0b-17" value="Single&amp;nbsp; GPU" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="400" width="130" height="30" as="geometry" />
+        <mxCell id="rQ44NRZbPeoj-4TRLv0b-17" value="&lt;b&gt;Single&amp;nbsp; GPU&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="375" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rQ44NRZbPeoj-4TRLv0b-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="rQ44NRZbPeoj-4TRLv0b-19" target="rQ44NRZbPeoj-4TRLv0b-25">
           <mxGeometry relative="1" as="geometry" />
@@ -53,14 +53,17 @@
         <mxCell id="rQ44NRZbPeoj-4TRLv0b-19" value="Evaluation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="648" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rQ44NRZbPeoj-4TRLv0b-23" value="Fix-bit Quant&lt;div&gt;1.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="1">
+        <mxCell id="rQ44NRZbPeoj-4TRLv0b-23" value="Fix-bit Quant&lt;div&gt;1.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-60" y="370" width="270" height="240" as="geometry" />
         </mxCell>
         <mxCell id="rQ44NRZbPeoj-4TRLv0b-24" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="375" width="270" height="155" as="geometry" />
         </mxCell>
-        <mxCell id="rQ44NRZbPeoj-4TRLv0b-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rQ44NRZbPeoj-4TRLv0b-25" value="Backend&lt;div&gt;&lt;br&gt;&lt;div&gt;1. Tensorrt&lt;/div&gt;&lt;div&gt;2. RKNN&lt;/div&gt;&lt;/div&gt;&lt;div&gt;4.&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="245" y="592" width="120" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="rQ44NRZbPeoj-4TRLv0b-31" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon2;" vertex="1" parent="1">
+          <mxGeometry x="440" y="620" width="50" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
