@@ -1,78 +1,71 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.1">
   <diagram name="第 1 页" id="3iv1OWT1o8_bI3SqXPA8">
-    <mxGraphModel dx="2847" dy="2331" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2220" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="rQ44NRZbPeoj-4TRLv0b-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" value="" vertex="1">
-          <mxGeometry height="390" width="1020" x="-600" y="-280" as="geometry" />
+          <mxGeometry height="403.5" width="1010" x="-480" y="363.25" as="geometry" />
         </mxCell>
         <mxCell id="rQ44NRZbPeoj-4TRLv0b-7" edge="1" parent="1" source="rQ44NRZbPeoj-4TRLv0b-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;dashed=1;" target="rQ44NRZbPeoj-4TRLv0b-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rQ44NRZbPeoj-4TRLv0b-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fontSize=13;align=left;" value="1. coco2017&lt;div&gt;2.Customized&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="-420" y="470" as="geometry" />
+        <mxCell id="rQ44NRZbPeoj-4TRLv0b-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fontSize=13;align=left;" value="&lt;span style=&quot;font-size: 12px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;1. WikiTest2&lt;/span&gt;&lt;div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;2. Pile(val)&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;3. C4&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;4. Customized&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="95" width="120" x="-420" y="427.5" as="geometry" />
         </mxCell>
         <mxCell id="rQ44NRZbPeoj-4TRLv0b-22" edge="1" parent="1" source="rQ44NRZbPeoj-4TRLv0b-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;curved=1;dashed=1;" target="rQ44NRZbPeoj-4TRLv0b-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rQ44NRZbPeoj-4TRLv0b-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=left;" value="1.YOLO&lt;div&gt;2.UNET&lt;/div&gt;&lt;div&gt;3.Resnet&lt;/div&gt;&lt;div&gt;4. ... ...&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="-420" y="595" as="geometry" />
-        </mxCell>
         <mxCell id="rQ44NRZbPeoj-4TRLv0b-21" edge="1" parent="1" source="rQ44NRZbPeoj-4TRLv0b-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" target="rQ44NRZbPeoj-4TRLv0b-19">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BpgCFbM0DDXcdrV9ramo-41" connectable="0" parent="rQ44NRZbPeoj-4TRLv0b-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Compressed Model" vertex="1">
+          <mxGeometry relative="1" x="-0.008" as="geometry">
+            <mxPoint x="36" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="rQ44NRZbPeoj-4TRLv0b-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Model&amp;nbsp;&lt;div&gt;Compression&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="-230" y="535" as="geometry" />
         </mxCell>
         <mxCell id="rQ44NRZbPeoj-4TRLv0b-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;rotation=15;" value="Calib. Data" vertex="1">
-          <mxGeometry height="60" width="120" x="-280" y="440" as="geometry" />
+          <mxGeometry height="40" width="110" x="-270" y="440" as="geometry" />
         </mxCell>
-        <mxCell id="rQ44NRZbPeoj-4TRLv0b-15" edge="1" parent="1" source="rQ44NRZbPeoj-4TRLv0b-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" target="rQ44NRZbPeoj-4TRLv0b-6">
+        <mxCell id="rQ44NRZbPeoj-4TRLv0b-15" edge="1" parent="1" source="rQ44NRZbPeoj-4TRLv0b-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;dashed=1;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-75" y="510" />
-              <mxPoint x="-170" y="510" />
+              <mxPoint x="-55" y="430" />
+              <mxPoint x="-55" y="510" />
+              <mxPoint x="-150" y="510" />
             </Array>
+            <mxPoint x="-80" y="430" as="sourcePoint" />
+            <mxPoint x="-150" y="535" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rQ44NRZbPeoj-4TRLv0b-11" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#2D7600;fillColor=#60a917;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.cpu;fontColor=#ffffff;" value="" vertex="1">
-          <mxGeometry height="50" width="50" x="-150" y="405" as="geometry" />
+          <mxGeometry height="50" width="50" x="-160" y="405" as="geometry" />
         </mxCell>
         <mxCell id="rQ44NRZbPeoj-4TRLv0b-17" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b&gt;Single&amp;nbsp; GPU&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="130" x="-190" y="375" as="geometry" />
+          <mxGeometry height="30" width="130" x="-200" y="375" as="geometry" />
         </mxCell>
-        <mxCell id="rQ44NRZbPeoj-4TRLv0b-28" edge="1" parent="1" source="rQ44NRZbPeoj-4TRLv0b-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="rQ44NRZbPeoj-4TRLv0b-25">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="390" y="700" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="BpgCFbM0DDXcdrV9ramo-32" edge="1" parent="1" source="rQ44NRZbPeoj-4TRLv0b-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" target="rQ44NRZbPeoj-4TRLv0b-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rQ44NRZbPeoj-4TRLv0b-30" connectable="0" parent="rQ44NRZbPeoj-4TRLv0b-28" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Export" vertex="1">
-          <mxGeometry relative="1" x="-0.0321" y="4" as="geometry">
+        <mxCell id="BpgCFbM0DDXcdrV9ramo-34" connectable="0" parent="BpgCFbM0DDXcdrV9ramo-32" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Export&lt;font class=&quot;notranslate immersive-translate-target-wrapper&quot; lang=&quot;zh-CN&quot;&gt;&lt;font class=&quot;notranslate&quot; data-immersive-translate-translation-element-mark=&quot;1&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0471" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BpgCFbM0DDXcdrV9ramo-9" edge="1" parent="1" source="rQ44NRZbPeoj-4TRLv0b-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" target="BpgCFbM0DDXcdrV9ramo-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="170" y="590" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="rQ44NRZbPeoj-4TRLv0b-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Evaluation" vertex="1">
-          <mxGeometry height="60" width="120" x="-40" y="670" as="geometry" />
+          <mxGeometry height="60" width="120" x="-20" y="665" as="geometry" />
         </mxCell>
-        <mxCell id="rQ44NRZbPeoj-4TRLv0b-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;align=left;" value="PTQ&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; QAT&lt;div style=&quot;&quot;&gt;1.MinMax&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;1.Fake Quantization&lt;/div&gt;&lt;div&gt;2.&amp;nbsp;KL Divergence&lt;/div&gt;&lt;div&gt;3.Entropy&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="120" width="280" x="220" y="345" as="geometry" />
+        <mxCell id="rQ44NRZbPeoj-4TRLv0b-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;align=left;" value="PTQ&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; QAT&lt;div style=&quot;&quot;&gt;1.MinMax&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;1. Quantization&lt;/div&gt;&lt;div&gt;2.&amp;nbsp;KL Divergence&lt;/div&gt;&lt;div&gt;3.Entropy&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="115" width="280" x="460" y="950" as="geometry" />
         </mxCell>
-        <mxCell id="rQ44NRZbPeoj-4TRLv0b-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="Backend&lt;div&gt;&lt;br&gt;&lt;div&gt;1. Tensorrt&lt;/div&gt;&lt;div&gt;2. RKNN&lt;/div&gt;&lt;/div&gt;&lt;div&gt;4.&amp;nbsp;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="115" width="120" x="430" y="614" as="geometry" />
-        </mxCell>
-        <mxCell id="rQ44NRZbPeoj-4TRLv0b-31" parent="1" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon2;" value="" vertex="1">
-          <mxGeometry height="41" width="50" x="560" y="651" as="geometry" />
+        <mxCell id="rQ44NRZbPeoj-4TRLv0b-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;b&gt;Backend&lt;/b&gt;&lt;div&gt;1. TensorRT&lt;div&gt;2. RKNN&lt;/div&gt;&lt;/div&gt;&lt;div&gt;3. TensorRT-LLM&lt;/div&gt;&lt;div&gt;4. VLLM&lt;/div&gt;&lt;div&gt;5. SGlang&lt;/div&gt;&lt;div&gt;6. llama.cpp&lt;/div&gt;&lt;div&gt;7. ......&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="115" width="120" x="220" y="637.5" as="geometry" />
         </mxCell>
         <mxCell id="BpgCFbM0DDXcdrV9ramo-7" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="245" width="280" x="-60" y="345" as="geometry" />
+          <mxGeometry height="245" width="280" x="-90" y="1120" as="geometry" />
         </mxCell>
         <mxCell id="rQ44NRZbPeoj-4TRLv0b-23" parent="BpgCFbM0DDXcdrV9ramo-7" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;" value="Fix-bit Quant&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Mix-bit Quant&lt;div&gt;&lt;div&gt;&lt;div&gt;1. Navie&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp;1. QUIK&lt;/div&gt;&lt;div&gt;2. AWQ&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp;2. SpQR&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;3. GPTQ&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;3. LLM.int8()&lt;/div&gt;&lt;div&gt;4. OmniQuant&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;4. OWQ&lt;/div&gt;&lt;div&gt;5. SmoothQuant&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;5. Customized&amp;nbsp;&lt;/div&gt;&lt;div&gt;6. OS+&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; layer-wise bit alloc.&lt;/div&gt;&lt;div&gt;7. NormTweaking&lt;/div&gt;&lt;div&gt;8. AddDim&lt;/div&gt;&lt;div&gt;9. DGQ&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;10. QuaRot&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Analysis&lt;/span&gt;&lt;/div&gt;&lt;div&gt;11.QuiP&lt;/div&gt;&lt;div&gt;12. HQQ&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="244.99999999999997" width="280" as="geometry" />
@@ -91,28 +84,77 @@
         <mxCell id="BpgCFbM0DDXcdrV9ramo-10" edge="1" parent="1" source="rQ44NRZbPeoj-4TRLv0b-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="rQ44NRZbPeoj-4TRLv0b-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BpgCFbM0DDXcdrV9ramo-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;align=left;" value="PTQ&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; QAT&lt;div style=&quot;&quot;&gt;1.MinMax&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;1.Fake Quantization&lt;/div&gt;&lt;div&gt;2.&amp;nbsp;KL Divergence&lt;/div&gt;&lt;div&gt;3.Entropy&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="120" width="280" x="-133" y="930" as="geometry" />
+        <mxCell id="BpgCFbM0DDXcdrV9ramo-25" edge="1" parent="1" source="BpgCFbM0DDXcdrV9ramo-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;dashed=1;" target="rQ44NRZbPeoj-4TRLv0b-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BpgCFbM0DDXcdrV9ramo-17" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="245" width="280" x="-413" y="930" as="geometry" />
+        <mxCell id="BpgCFbM0DDXcdrV9ramo-29" edge="1" parent="1" source="BpgCFbM0DDXcdrV9ramo-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;curved=1;dashed=1;" target="rQ44NRZbPeoj-4TRLv0b-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BpgCFbM0DDXcdrV9ramo-18" parent="BpgCFbM0DDXcdrV9ramo-17" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;" value="Fix-bit Quant&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Mix-bit Quant&lt;div&gt;&lt;div&gt;&lt;div&gt;1. Navie&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp;1. QUIK&lt;/div&gt;&lt;div&gt;2. AWQ&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp;2. SpQR&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;3. GPTQ&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;3. LLM.int8()&lt;/div&gt;&lt;div&gt;4. OmniQuant&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;4. OWQ&lt;/div&gt;&lt;div&gt;5. SmoothQuant&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;5. Customized&amp;nbsp;&lt;/div&gt;&lt;div&gt;6. OS+&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; layer-wise bit alloc.&lt;/div&gt;&lt;div&gt;7. NormTweaking&lt;/div&gt;&lt;div&gt;8. AddDim&lt;/div&gt;&lt;div&gt;9. DGQ&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;10. QuaRot&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Analysis&lt;/span&gt;&lt;/div&gt;&lt;div&gt;11.QuiP&lt;/div&gt;&lt;div&gt;12. HQQ&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="244.99999999999997" width="280" as="geometry" />
+        <mxCell id="BpgCFbM0DDXcdrV9ramo-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="170" x="550" y="1190" as="geometry" />
         </mxCell>
-        <mxCell id="BpgCFbM0DDXcdrV9ramo-19" parent="BpgCFbM0DDXcdrV9ramo-17" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="1. Kurtosis value&lt;div&gt;2. Outlier&lt;/div&gt;&lt;div&gt;3. Quant Error&lt;/div&gt;&lt;div&gt;4. Data visualization&lt;/div&gt;" vertex="1">
-          <mxGeometry height="71.45833333333333" width="145.1851851851852" x="134.8148148148148" y="173.54166666666666" as="geometry" />
+        <mxCell id="BpgCFbM0DDXcdrV9ramo-31" edge="1" parent="1" source="rQ44NRZbPeoj-4TRLv0b-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.69;entryY=1.025;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;dashed=1;" target="BpgCFbM0DDXcdrV9ramo-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BpgCFbM0DDXcdrV9ramo-20" edge="1" parent="BpgCFbM0DDXcdrV9ramo-17" source="BpgCFbM0DDXcdrV9ramo-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.152;entryY=1.004;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" target="BpgCFbM0DDXcdrV9ramo-18">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="207.4074074074074" y="275.625" />
-              <mxPoint x="42.51851851851852" y="275.625" />
-            </Array>
+        <mxCell id="BpgCFbM0DDXcdrV9ramo-56" connectable="0" parent="BpgCFbM0DDXcdrV9ramo-31" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="LM" vertex="1">
+          <mxGeometry relative="1" x="-0.2555" y="2" as="geometry">
+            <mxPoint x="1" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BpgCFbM0DDXcdrV9ramo-21" edge="1" parent="1" source="BpgCFbM0DDXcdrV9ramo-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="BpgCFbM0DDXcdrV9ramo-16">
+        <mxCell id="BpgCFbM0DDXcdrV9ramo-45" edge="1" parent="1" source="rQ44NRZbPeoj-4TRLv0b-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="rQ44NRZbPeoj-4TRLv0b-31" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="695" as="sourcePoint" />
+            <mxPoint x="540" y="695" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BpgCFbM0DDXcdrV9ramo-54" connectable="0" parent="BpgCFbM0DDXcdrV9ramo-45" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Application" vertex="1">
+          <mxGeometry relative="1" x="0.025" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rQ44NRZbPeoj-4TRLv0b-31" parent="1" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon2;" value="" vertex="1">
+          <mxGeometry height="41" width="50" x="460" y="674.5" as="geometry" />
+        </mxCell>
+        <mxCell id="BpgCFbM0DDXcdrV9ramo-47" connectable="0" parent="1" style="group;dashed=1;" value="" vertex="1">
+          <mxGeometry height="175" width="120" x="-420" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="rQ44NRZbPeoj-4TRLv0b-5" parent="BpgCFbM0DDXcdrV9ramo-47" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=left;dashed=1;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;Traditional Model&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;1. YOLO&lt;div&gt;2. U-Net&lt;/div&gt;&lt;div&gt;3. ResNet&lt;/div&gt;&lt;div&gt;4. ......&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="170" width="120" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="BpgCFbM0DDXcdrV9ramo-46" parent="BpgCFbM0DDXcdrV9ramo-47" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;" value="&lt;b&gt;LLM&lt;/b&gt;&lt;div&gt;1. Llama&lt;/div&gt;&lt;div&gt;2. Qwen&lt;/div&gt;&lt;div&gt;3. Mixtral&lt;/div&gt;&lt;div&gt;4. ......&lt;/div&gt;" vertex="1">
+          <mxGeometry height="85" width="120" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="BpgCFbM0DDXcdrV9ramo-52" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="229" width="290" x="180" y="361" as="geometry" />
+        </mxCell>
+        <mxCell id="BpgCFbM0DDXcdrV9ramo-18" parent="BpgCFbM0DDXcdrV9ramo-52" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;" value="Fix-bit Quant&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Mix-bit Quant&lt;div&gt;&lt;div&gt;1. Navie&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;1. QUIK&lt;/div&gt;&lt;div&gt;2. AWQ&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;2. SpQR&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;3. GPTQ&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;3. LLM.int8()&lt;/div&gt;&lt;div&gt;4. OmniQuant&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;4. OWQ&lt;/div&gt;&lt;div&gt;5. SmoothQuant&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;5. Customized&amp;nbsp;&lt;/div&gt;&lt;div&gt;6. OS+&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;7. NormTweaking&lt;/div&gt;&lt;div&gt;8. AddDim&lt;/div&gt;&lt;div&gt;9. DGQ&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;10. QuaRot&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;11. QuiP&lt;/div&gt;&lt;div&gt;12. HQQ&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="200" width="290" y="29" as="geometry" />
+        </mxCell>
+        <mxCell id="BpgCFbM0DDXcdrV9ramo-19" parent="BpgCFbM0DDXcdrV9ramo-52" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="1. Kurtosis value&lt;div&gt;2. Outlier&lt;/div&gt;&lt;div&gt;3. Quant Error&lt;/div&gt;&lt;div&gt;4. Data visualization&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="145.19" x="144.80999999999995" y="149" as="geometry" />
+        </mxCell>
+        <mxCell id="BpgCFbM0DDXcdrV9ramo-23" parent="BpgCFbM0DDXcdrV9ramo-52" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&amp;nbsp;LM Quantization" vertex="1">
+          <mxGeometry height="30" width="180" x="55" as="geometry" />
+        </mxCell>
+        <mxCell id="BpgCFbM0DDXcdrV9ramo-30" edge="1" parent="BpgCFbM0DDXcdrV9ramo-52" source="BpgCFbM0DDXcdrV9ramo-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.31;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;dashed=1;" target="BpgCFbM0DDXcdrV9ramo-18">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BpgCFbM0DDXcdrV9ramo-39" connectable="0" parent="BpgCFbM0DDXcdrV9ramo-30" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Re-Select" vertex="1">
+          <mxGeometry relative="1" x="-0.0997" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BpgCFbM0DDXcdrV9ramo-53" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="110" width="240" x="-60" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="BpgCFbM0DDXcdrV9ramo-16" parent="BpgCFbM0DDXcdrV9ramo-53" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;align=left;" value="PTQ&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; QAT&lt;div style=&quot;&quot;&gt;1. MinMax&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;1. LSQ&lt;/div&gt;&lt;div&gt;2. KL Divergence&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;2. PACT&lt;/div&gt;&lt;div&gt;3. Entropy&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 3. Distillation-QAT&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="240" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BpgCFbM0DDXcdrV9ramo-21" edge="1" parent="BpgCFbM0DDXcdrV9ramo-53" source="BpgCFbM0DDXcdrV9ramo-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="BpgCFbM0DDXcdrV9ramo-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BpgCFbM0DDXcdrV9ramo-24" parent="BpgCFbM0DDXcdrV9ramo-53" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Traditional Model Quantization" vertex="1">
+          <mxGeometry height="30" width="170" x="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
