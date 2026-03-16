@@ -1,34 +1,34 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="26.0.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.1">
   <diagram name="第 1 页" id="3iv1OWT1o8_bI3SqXPA8">
-    <mxGraphModel dx="2855" dy="1157" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2847" dy="2331" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rQ44NRZbPeoj-4TRLv0b-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="1">
-          <mxGeometry x="-480" y="340" width="1020" height="390" as="geometry" />
+        <mxCell id="rQ44NRZbPeoj-4TRLv0b-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" value="" vertex="1">
+          <mxGeometry height="390" width="1020" x="-600" y="-280" as="geometry" />
         </mxCell>
-        <mxCell id="rQ44NRZbPeoj-4TRLv0b-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;dashed=1;" edge="1" parent="1" source="rQ44NRZbPeoj-4TRLv0b-4" target="rQ44NRZbPeoj-4TRLv0b-6">
+        <mxCell id="rQ44NRZbPeoj-4TRLv0b-7" edge="1" parent="1" source="rQ44NRZbPeoj-4TRLv0b-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;dashed=1;" target="rQ44NRZbPeoj-4TRLv0b-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rQ44NRZbPeoj-4TRLv0b-4" value="1. CoCo2017&lt;div&gt;2.Customized&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fontSize=13;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-420" y="470" width="120" height="60" as="geometry" />
+        <mxCell id="rQ44NRZbPeoj-4TRLv0b-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fontSize=13;align=left;" value="1. coco2017&lt;div&gt;2.Customized&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="-420" y="470" as="geometry" />
         </mxCell>
-        <mxCell id="rQ44NRZbPeoj-4TRLv0b-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;curved=1;dashed=1;" edge="1" parent="1" source="rQ44NRZbPeoj-4TRLv0b-5" target="rQ44NRZbPeoj-4TRLv0b-6">
+        <mxCell id="rQ44NRZbPeoj-4TRLv0b-22" edge="1" parent="1" source="rQ44NRZbPeoj-4TRLv0b-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;curved=1;dashed=1;" target="rQ44NRZbPeoj-4TRLv0b-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rQ44NRZbPeoj-4TRLv0b-5" value="1.YOLO&lt;div&gt;2.UNET&lt;/div&gt;&lt;div&gt;3.Resnet&lt;/div&gt;&lt;div&gt;4. ... ...&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-420" y="595" width="120" height="60" as="geometry" />
+        <mxCell id="rQ44NRZbPeoj-4TRLv0b-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=left;" value="1.YOLO&lt;div&gt;2.UNET&lt;/div&gt;&lt;div&gt;3.Resnet&lt;/div&gt;&lt;div&gt;4. ... ...&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="-420" y="595" as="geometry" />
         </mxCell>
-        <mxCell id="rQ44NRZbPeoj-4TRLv0b-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="rQ44NRZbPeoj-4TRLv0b-6" target="rQ44NRZbPeoj-4TRLv0b-19">
+        <mxCell id="rQ44NRZbPeoj-4TRLv0b-21" edge="1" parent="1" source="rQ44NRZbPeoj-4TRLv0b-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" target="rQ44NRZbPeoj-4TRLv0b-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rQ44NRZbPeoj-4TRLv0b-6" value="Model&amp;nbsp;&lt;div&gt;Compression&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-230" y="535" width="120" height="60" as="geometry" />
+        <mxCell id="rQ44NRZbPeoj-4TRLv0b-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Model&amp;nbsp;&lt;div&gt;Compression&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="-230" y="535" as="geometry" />
         </mxCell>
-        <mxCell id="rQ44NRZbPeoj-4TRLv0b-9" value="Calib. Data" style="rounded=1;whiteSpace=wrap;html=1;rotation=15;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="440" width="120" height="60" as="geometry" />
+        <mxCell id="rQ44NRZbPeoj-4TRLv0b-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;rotation=15;" value="Calib. Data" vertex="1">
+          <mxGeometry height="60" width="120" x="-280" y="440" as="geometry" />
         </mxCell>
-        <mxCell id="rQ44NRZbPeoj-4TRLv0b-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="rQ44NRZbPeoj-4TRLv0b-11" target="rQ44NRZbPeoj-4TRLv0b-6">
+        <mxCell id="rQ44NRZbPeoj-4TRLv0b-15" edge="1" parent="1" source="rQ44NRZbPeoj-4TRLv0b-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" target="rQ44NRZbPeoj-4TRLv0b-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-75" y="510" />
@@ -36,34 +36,83 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rQ44NRZbPeoj-4TRLv0b-11" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#2D7600;fillColor=#60a917;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.cpu;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-150" y="405" width="50" height="50" as="geometry" />
+        <mxCell id="rQ44NRZbPeoj-4TRLv0b-11" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#2D7600;fillColor=#60a917;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.cpu;fontColor=#ffffff;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="-150" y="405" as="geometry" />
         </mxCell>
-        <mxCell id="rQ44NRZbPeoj-4TRLv0b-17" value="&lt;b&gt;Single&amp;nbsp; GPU&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="375" width="130" height="30" as="geometry" />
+        <mxCell id="rQ44NRZbPeoj-4TRLv0b-17" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b&gt;Single&amp;nbsp; GPU&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="-190" y="375" as="geometry" />
         </mxCell>
-        <mxCell id="rQ44NRZbPeoj-4TRLv0b-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="rQ44NRZbPeoj-4TRLv0b-19" target="rQ44NRZbPeoj-4TRLv0b-25">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="rQ44NRZbPeoj-4TRLv0b-28" edge="1" parent="1" source="rQ44NRZbPeoj-4TRLv0b-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="rQ44NRZbPeoj-4TRLv0b-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="700" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="rQ44NRZbPeoj-4TRLv0b-30" value="Export" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rQ44NRZbPeoj-4TRLv0b-28">
-          <mxGeometry x="-0.0321" y="4" relative="1" as="geometry">
+        <mxCell id="rQ44NRZbPeoj-4TRLv0b-30" connectable="0" parent="rQ44NRZbPeoj-4TRLv0b-28" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Export" vertex="1">
+          <mxGeometry relative="1" x="-0.0321" y="4" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rQ44NRZbPeoj-4TRLv0b-19" value="Evaluation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="648" width="120" height="60" as="geometry" />
+        <mxCell id="BpgCFbM0DDXcdrV9ramo-9" edge="1" parent="1" source="rQ44NRZbPeoj-4TRLv0b-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" target="BpgCFbM0DDXcdrV9ramo-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="590" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="rQ44NRZbPeoj-4TRLv0b-23" value="Fix-bit Quant&lt;div&gt;1.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="370" width="270" height="240" as="geometry" />
+        <mxCell id="rQ44NRZbPeoj-4TRLv0b-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Evaluation" vertex="1">
+          <mxGeometry height="60" width="120" x="-40" y="670" as="geometry" />
         </mxCell>
-        <mxCell id="rQ44NRZbPeoj-4TRLv0b-24" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="375" width="270" height="155" as="geometry" />
+        <mxCell id="rQ44NRZbPeoj-4TRLv0b-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;align=left;" value="PTQ&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; QAT&lt;div style=&quot;&quot;&gt;1.MinMax&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;1.Fake Quantization&lt;/div&gt;&lt;div&gt;2.&amp;nbsp;KL Divergence&lt;/div&gt;&lt;div&gt;3.Entropy&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="280" x="220" y="345" as="geometry" />
         </mxCell>
-        <mxCell id="rQ44NRZbPeoj-4TRLv0b-25" value="Backend&lt;div&gt;&lt;br&gt;&lt;div&gt;1. Tensorrt&lt;/div&gt;&lt;div&gt;2. RKNN&lt;/div&gt;&lt;/div&gt;&lt;div&gt;4.&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="245" y="592" width="120" height="115" as="geometry" />
+        <mxCell id="rQ44NRZbPeoj-4TRLv0b-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="Backend&lt;div&gt;&lt;br&gt;&lt;div&gt;1. Tensorrt&lt;/div&gt;&lt;div&gt;2. RKNN&lt;/div&gt;&lt;/div&gt;&lt;div&gt;4.&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="115" width="120" x="430" y="614" as="geometry" />
         </mxCell>
-        <mxCell id="rQ44NRZbPeoj-4TRLv0b-31" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon2;" vertex="1" parent="1">
-          <mxGeometry x="440" y="620" width="50" height="41" as="geometry" />
+        <mxCell id="rQ44NRZbPeoj-4TRLv0b-31" parent="1" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon2;" value="" vertex="1">
+          <mxGeometry height="41" width="50" x="560" y="651" as="geometry" />
+        </mxCell>
+        <mxCell id="BpgCFbM0DDXcdrV9ramo-7" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="245" width="280" x="-60" y="345" as="geometry" />
+        </mxCell>
+        <mxCell id="rQ44NRZbPeoj-4TRLv0b-23" parent="BpgCFbM0DDXcdrV9ramo-7" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;" value="Fix-bit Quant&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Mix-bit Quant&lt;div&gt;&lt;div&gt;&lt;div&gt;1. Navie&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp;1. QUIK&lt;/div&gt;&lt;div&gt;2. AWQ&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp;2. SpQR&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;3. GPTQ&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;3. LLM.int8()&lt;/div&gt;&lt;div&gt;4. OmniQuant&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;4. OWQ&lt;/div&gt;&lt;div&gt;5. SmoothQuant&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;5. Customized&amp;nbsp;&lt;/div&gt;&lt;div&gt;6. OS+&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; layer-wise bit alloc.&lt;/div&gt;&lt;div&gt;7. NormTweaking&lt;/div&gt;&lt;div&gt;8. AddDim&lt;/div&gt;&lt;div&gt;9. DGQ&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;10. QuaRot&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Analysis&lt;/span&gt;&lt;/div&gt;&lt;div&gt;11.QuiP&lt;/div&gt;&lt;div&gt;12. HQQ&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="244.99999999999997" width="280" as="geometry" />
+        </mxCell>
+        <mxCell id="BpgCFbM0DDXcdrV9ramo-2" parent="BpgCFbM0DDXcdrV9ramo-7" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="1. Kurtosis value&lt;div&gt;2. Outlier&lt;/div&gt;&lt;div&gt;3. Quant Error&lt;/div&gt;&lt;div&gt;4. Data visualization&lt;/div&gt;" vertex="1">
+          <mxGeometry height="71.45833333333333" width="145.1851851851852" x="134.8148148148148" y="173.54166666666666" as="geometry" />
+        </mxCell>
+        <mxCell id="BpgCFbM0DDXcdrV9ramo-14" edge="1" parent="BpgCFbM0DDXcdrV9ramo-7" source="BpgCFbM0DDXcdrV9ramo-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.152;entryY=1.004;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" target="rQ44NRZbPeoj-4TRLv0b-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="207.4074074074074" y="275.625" />
+              <mxPoint x="42.51851851851852" y="275.625" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BpgCFbM0DDXcdrV9ramo-10" edge="1" parent="1" source="rQ44NRZbPeoj-4TRLv0b-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="rQ44NRZbPeoj-4TRLv0b-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BpgCFbM0DDXcdrV9ramo-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;align=left;" value="PTQ&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; QAT&lt;div style=&quot;&quot;&gt;1.MinMax&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;1.Fake Quantization&lt;/div&gt;&lt;div&gt;2.&amp;nbsp;KL Divergence&lt;/div&gt;&lt;div&gt;3.Entropy&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="280" x="-133" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="BpgCFbM0DDXcdrV9ramo-17" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="245" width="280" x="-413" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="BpgCFbM0DDXcdrV9ramo-18" parent="BpgCFbM0DDXcdrV9ramo-17" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;" value="Fix-bit Quant&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Mix-bit Quant&lt;div&gt;&lt;div&gt;&lt;div&gt;1. Navie&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp;1. QUIK&lt;/div&gt;&lt;div&gt;2. AWQ&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp;2. SpQR&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;3. GPTQ&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;3. LLM.int8()&lt;/div&gt;&lt;div&gt;4. OmniQuant&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;4. OWQ&lt;/div&gt;&lt;div&gt;5. SmoothQuant&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;5. Customized&amp;nbsp;&lt;/div&gt;&lt;div&gt;6. OS+&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; layer-wise bit alloc.&lt;/div&gt;&lt;div&gt;7. NormTweaking&lt;/div&gt;&lt;div&gt;8. AddDim&lt;/div&gt;&lt;div&gt;9. DGQ&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;10. QuaRot&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Analysis&lt;/span&gt;&lt;/div&gt;&lt;div&gt;11.QuiP&lt;/div&gt;&lt;div&gt;12. HQQ&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="244.99999999999997" width="280" as="geometry" />
+        </mxCell>
+        <mxCell id="BpgCFbM0DDXcdrV9ramo-19" parent="BpgCFbM0DDXcdrV9ramo-17" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="1. Kurtosis value&lt;div&gt;2. Outlier&lt;/div&gt;&lt;div&gt;3. Quant Error&lt;/div&gt;&lt;div&gt;4. Data visualization&lt;/div&gt;" vertex="1">
+          <mxGeometry height="71.45833333333333" width="145.1851851851852" x="134.8148148148148" y="173.54166666666666" as="geometry" />
+        </mxCell>
+        <mxCell id="BpgCFbM0DDXcdrV9ramo-20" edge="1" parent="BpgCFbM0DDXcdrV9ramo-17" source="BpgCFbM0DDXcdrV9ramo-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.152;entryY=1.004;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" target="BpgCFbM0DDXcdrV9ramo-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="207.4074074074074" y="275.625" />
+              <mxPoint x="42.51851851851852" y="275.625" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BpgCFbM0DDXcdrV9ramo-21" edge="1" parent="1" source="BpgCFbM0DDXcdrV9ramo-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="BpgCFbM0DDXcdrV9ramo-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
